@@ -1,0 +1,11 @@
+[MASTER]
+
+disable=
+    too-few-public-methods,
+    consider-using-f-string,
+    no-member
+
+max-line-length=105
+attr-naming-style=any
+inlinevar-naming-style=any
+variable-naming-style=any
